@@ -1,0 +1,1 @@
+#tag ClassProtected Class AppInherits Application	#tag Event		Sub Open()		  #if TargetCarbon		    if not NSApplicationLoad then		      //something went wrong, and you should probably bail out.		    end if		  #endif		End Sub	#tag EndEvent	#tag ViewBehavior	#tag EndViewBehaviorEnd Class#tag EndClass
