@@ -1,0 +1,1 @@
+CarbonSpellChecker is a REALbasic wrapper of NSSpellChecker for Carbon applications.
